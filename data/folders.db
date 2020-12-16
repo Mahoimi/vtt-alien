@@ -40,3 +40,4 @@
 {"_id":"w5rj2bPt77Sw12IP","name":"Weapons","type":"JournalEntry","sort":100000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
 {"_id":"znxqhODCZeUjygm7","name":"Introduction","type":"JournalEntry","sort":0,"flags":{},"parent":"6gzBVK0PCGmlVju5","color":""}
+{"name":"Skill-Stunts","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"mw5yPttyVrDN40K6"}

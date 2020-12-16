@@ -22,7 +22,9 @@
   "changelog": "",
   "background": "Alien-COTG.png",
   "system": "alienrpg",
-  "coreVersion": "0.6.6",
-  "systemVersion": "1.1.4",
-  "nextSession": ""
+  "coreVersion": "0.7.8",
+  "systemVersion": "1.2.20",
+  "nextSession": "",
+  "availability": 0,
+  "unavailable": false
 }
