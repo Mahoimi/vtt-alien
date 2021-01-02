@@ -30,6 +30,7 @@
 {"_id":"iIRXDaePTica18jI","name":"Rifles","type":"Item","sort":300000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
 {"_id":"ip89wLTG1riDAWPg","name":"Player Handouts","type":"JournalEntry","sort":50000,"flags":{},"parent":null,"color":""}
 {"_id":"mC5SS1tN8DlBnhwd","name":"Chariot of the Gods","type":"Scene","sort":100000,"flags":{},"parent":null,"color":""}
+{"name":"Skill-Stunts","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"mw5yPttyVrDN40K6"}
 {"name":"Act III : Divided We Fall","type":"JournalEntry","sort":900000,"flags":{},"parent":"6gzBVK0PCGmlVju5","color":"","_id":"nZdb69h2QP7OIaCj"}
 {"_id":"ptfRh2n7ZViwlY1A","name":"Diagnostics & Display","type":"Item","sort":700000,"flags":{},"parent":"Si53XDhiAFh6xTMF","color":"#c1c100"}
 {"_id":"qP01kie0VKY7df0x","name":"Medical Supplies","type":"Item","sort":600000,"flags":{},"parent":"Si53XDhiAFh6xTMF","color":"#00b32d"}
@@ -40,4 +41,9 @@
 {"_id":"w5rj2bPt77Sw12IP","name":"Weapons","type":"JournalEntry","sort":100000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
 {"_id":"znxqhODCZeUjygm7","name":"Introduction","type":"JournalEntry","sort":0,"flags":{},"parent":"6gzBVK0PCGmlVju5","color":""}
-{"name":"Skill-Stunts","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"mw5yPttyVrDN40K6"}
+{"name":"Chariot of the Gods","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"9f1xOdNr509t8sSr"}
+{"_id":"OhxJoZ0mVCwcmiq0","name":"NPC","type":"Actor","sort":0,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"J3JImUKbU5nyUBqq","name":"PC","type":"Actor","sort":50000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"OhxJoZ0mVCwcmiq0","name":"NPC","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"OhxJoZ0mVCwcmiq0","name":"NPC","type":"Actor","sort":100000,"flags":{},"parent":"9f1xOdNr509t8sSr","sorting":"a","color":""}
+{"_id":"J3JImUKbU5nyUBqq","name":"PC","type":"Actor","sort":200000,"flags":{},"parent":"9f1xOdNr509t8sSr","sorting":"a","color":""}
