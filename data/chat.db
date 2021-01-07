@@ -1,0 +1,2 @@
+{"flags":{},"type":5,"user":"q8HmJQOf882klbgH","timestamp":1610058699264,"flavor":null,"content":"1d6","speaker":{"scene":"GyKcmZlaxDRWHTQN","actor":null,"token":null,"alias":"Thomas"},"whisper":[],"roll":"{\"class\":\"Roll\",\"dice\":[],\"formula\":\"1d6\",\"terms\":[{\"class\":\"Die\",\"number\":1,\"faces\":6,\"modifiers\":[],\"options\":{},\"results\":[{\"result\":1,\"active\":true}]}],\"results\":[1],\"total\":1}","sound":"sounds/dice.wav","_id":"iofl5YK6AcQzZ38M"}
+{"$$deleted":true,"_id":"iofl5YK6AcQzZ38M"}

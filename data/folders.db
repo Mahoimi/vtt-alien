@@ -25,6 +25,7 @@
 {"_id":"Si53XDhiAFh6xTMF","name":"Others","type":"Item","sort":300000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":""}
 {"_id":"TAPQxntPSn68H8ZE","name":"Kid","type":"Item","sort":63282,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"name":"Act II : The Long Night","type":"JournalEntry","sort":800000,"flags":{},"parent":"6gzBVK0PCGmlVju5","color":"","_id":"TVTvmdAK2gZm78aw"}
+{"name":"Deck A","type":"JournalEntry","sort":1000000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"e4pUiUn08kx4Rxzt"}
 {"name":"Alien Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"color":"","_id":"fCeJRSsUpIZISOSk"}
 {"name":"Alien Creature Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#ff0000","_id":"febeL2CJoK2GBQSn"}
 {"_id":"huwhNfLnKRfpWy5t","name":"Talents","type":"Item","sort":200000,"flags":{},"parent":null,"color":"#000000"}
@@ -37,10 +38,12 @@
 {"_id":"qP01kie0VKY7df0x","name":"Medical Supplies","type":"Item","sort":600000,"flags":{},"parent":"Si53XDhiAFh6xTMF","color":"#00b32d"}
 {"_id":"roA0geEiZm0e7awT","name":"Armors","type":"Item","sort":200000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":"#0080ff"}
 {"_id":"rtjCunReYz4LANdH","name":"Suits & Armors","type":"JournalEntry","sort":200000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
+{"name":"Deck B","type":"JournalEntry","sort":1100000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"tL9Z0ObBtwDIueRH"}
 {"_id":"tr75mhxdKIpJtxeb","name":"Company Agent","type":"Item","sort":62500,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"vQAmRD1t5KdbZepG","name":"Colonial Marine","type":"Item","sort":50000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"w5rj2bPt77Sw12IP","name":"Weapons","type":"JournalEntry","sort":100000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
 {"_id":"znxqhODCZeUjygm7","name":"Introduction","type":"JournalEntry","sort":0,"flags":{},"parent":"6gzBVK0PCGmlVju5","color":""}
-{"name":"Deck A","type":"JournalEntry","sort":1000000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"e4pUiUn08kx4Rxzt"}
-{"name":"Deck B","type":"JournalEntry","sort":1100000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"tL9Z0ObBtwDIueRH"}
+{"name":"Deck C","type":"JournalEntry","sort":1200000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"vLYOkqihUZdRuy61"}
+{"name":"USCSS Cronus Deck D","type":"Scene","sort":200000,"flags":{},"parent":"mC5SS1tN8DlBnhwd","sorting":"a","color":"","_id":"mW9ayodmkI8x3ZMd"}
+{"$$deleted":true,"_id":"mW9ayodmkI8x3ZMd"}
