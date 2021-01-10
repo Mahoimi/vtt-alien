@@ -1,8 +1,11 @@
 TODO :
-- USCSS Deck D notes
+- Events
 - Stunts
 - Neomorphic egg sacs & motes
+- Neomorphs
 - Xenomorphs
+- Items
+- Transférer items to compendium
 
 Se renseigner sur :
 - attaques des Abominations stage 1 & 2

@@ -40,10 +40,16 @@
 {"_id":"rtjCunReYz4LANdH","name":"Suits & Armors","type":"JournalEntry","sort":200000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Deck B","type":"JournalEntry","sort":1100000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"tL9Z0ObBtwDIueRH"}
 {"_id":"tr75mhxdKIpJtxeb","name":"Company Agent","type":"Item","sort":62500,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
+{"name":"Deck C","type":"JournalEntry","sort":1200000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"vLYOkqihUZdRuy61"}
 {"_id":"vQAmRD1t5KdbZepG","name":"Colonial Marine","type":"Item","sort":50000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"w5rj2bPt77Sw12IP","name":"Weapons","type":"JournalEntry","sort":100000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
 {"_id":"znxqhODCZeUjygm7","name":"Introduction","type":"JournalEntry","sort":0,"flags":{},"parent":"6gzBVK0PCGmlVju5","color":""}
-{"name":"Deck C","type":"JournalEntry","sort":1200000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"vLYOkqihUZdRuy61"}
-{"name":"USCSS Cronus Deck D","type":"Scene","sort":200000,"flags":{},"parent":"mC5SS1tN8DlBnhwd","sorting":"a","color":"","_id":"mW9ayodmkI8x3ZMd"}
-{"$$deleted":true,"_id":"mW9ayodmkI8x3ZMd"}
+{"name":"Deck D","type":"JournalEntry","sort":1300000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"Z7wQOX0J2hrZ6Jon"}
+{"_id":"znxqhODCZeUjygm7","name":"Introduction","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"znxqhODCZeUjygm7","name":"Introduction","type":"JournalEntry","sort":1000000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
+{"_id":"znxqhODCZeUjygm7","name":"1 - Introduction","type":"JournalEntry","sort":1000000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
+{"_id":"1FY2fTxrzSrMThK2","name":"2 - Cronus Decks","type":"JournalEntry","sort":100000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
+{"_id":"HD1eJ7sNVjXro1El","name":"3 - Events","type":"JournalEntry","sort":700000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
+{"$$deleted":true,"_id":"TVTvmdAK2gZm78aw"}
+{"$$deleted":true,"_id":"nZdb69h2QP7OIaCj"}
