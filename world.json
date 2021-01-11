@@ -8,7 +8,17 @@
   "scripts": [],
   "esmodules": [],
   "styles": [],
-  "packs": [],
+  "packs": [
+    {
+      "label": "Talents",
+      "entity": "Item",
+      "name": "talents",
+      "path": "packs/talents.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\talents.db"
+    }
+  ],
   "languages": [],
   "authors": [],
   "keywords": [],
@@ -26,5 +36,6 @@
   "systemVersion": "1.2.20",
   "nextSession": "",
   "availability": 1,
-  "unavailable": false
+  "unavailable": false,
+  "id": "alien-cotg"
 }
