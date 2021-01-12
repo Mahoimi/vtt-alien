@@ -2,14 +2,13 @@
 {"_id":"0spMqVkHNoHXhv6R","name":"Pistols","type":"Item","sort":200000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
 {"_id":"1FY2fTxrzSrMThK2","name":"2 - Cronus Decks","type":"JournalEntry","sort":100000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
 {"_id":"5Fn9W0XOcTQJipAz","name":"Medic","type":"Item","sort":64063,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"_id":"5dDwArzkPMsjCJ2l","name":"Other","type":"JournalEntry","sort":300000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"_id":"6gzBVK0PCGmlVju5","name":"Chariot of the Gods","type":"JournalEntry","sort":250000,"flags":{},"parent":null,"color":""}
 {"_id":"6u2JYPf1HAvLPCet","name":"Close Combat","type":"Item","sort":100000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
-{"name":"Creatures","type":"JournalEntry","sort":500000,"flags":{},"parent":"ip89wLTG1riDAWPg","color":"","_id":"8c4xfCBnImjKuUm1"}
 {"_id":"9RaIrABqTghlt0Qf","name":"Colonial Marshall","type":"Item","sort":56250,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"name":"Chariot of the Gods","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"9f1xOdNr509t8sSr"}
+{"name":"Neomorphs","type":"Actor","sort":300000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"9ih76sOAcPosWHOp"}
 {"name":"Roughneck","type":"Item","sort":1000000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":"","_id":"9jz7vFzlBdmjDmJo"}
-{"name":"Locations","type":"JournalEntry","sort":600000,"flags":{},"parent":"ip89wLTG1riDAWPg","color":"","_id":"FtqBbMSFnt9tyrui"}
+{"_id":"FtqBbMSFnt9tyrui","name":"Locations","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"GdDPOENdw3zvO3bc","name":"Weapons","type":"Item","sort":100000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":"#ff0000"}
 {"_id":"GnmpaSrNJXYqwGmg","name":"Officer","type":"Item","sort":65625,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"HD1eJ7sNVjXro1El","name":"3 - Events","type":"JournalEntry","sort":700000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
@@ -17,7 +16,6 @@
 {"_id":"IYdUAdq5FO7nx6CB","name":"Scientist","type":"Item","sort":100000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"InLkBJ2JtAqwWrVa","name":"Heavy Weapons","type":"Item","sort":400000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
 {"_id":"J3JImUKbU5nyUBqq","name":"PC","type":"Actor","sort":200000,"flags":{},"parent":"9f1xOdNr509t8sSr","sorting":"a","color":""}
-{"_id":"Naxx3ZFWCfo27dp9","name":"Gear","type":"JournalEntry","sort":-200000,"flags":{},"parent":null,"color":""}
 {"_id":"NwECYNBkxlZ25WkY","name":"Rules","type":"JournalEntry","sort":-300000,"flags":{},"parent":null,"color":""}
 {"_id":"OhxJoZ0mVCwcmiq0","name":"NPC","type":"Actor","sort":100000,"flags":{},"parent":"9f1xOdNr509t8sSr","sorting":"a","color":""}
 {"_id":"QQUe8jfCyifRkmiE","name":"Gear","type":"Item","sort":100000,"flags":{},"parent":null,"color":""}
@@ -25,34 +23,21 @@
 {"_id":"Si53XDhiAFh6xTMF","name":"Others","type":"Item","sort":300000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":""}
 {"_id":"TAPQxntPSn68H8ZE","name":"Kid","type":"Item","sort":63282,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"name":"Deck D","type":"JournalEntry","sort":1300000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"Z7wQOX0J2hrZ6Jon"}
+{"name":"Abominations","type":"Actor","sort":400000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"aH6HYjyMj8EJg3vQ"}
 {"name":"Deck A","type":"JournalEntry","sort":1000000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"e4pUiUn08kx4Rxzt"}
 {"name":"Alien Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"color":"","_id":"fCeJRSsUpIZISOSk"}
 {"name":"Alien Creature Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#ff0000","_id":"febeL2CJoK2GBQSn"}
 {"_id":"huwhNfLnKRfpWy5t","name":"Talents","type":"Item","sort":200000,"flags":{},"parent":null,"color":"#000000"}
 {"_id":"iIRXDaePTica18jI","name":"Rifles","type":"Item","sort":300000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
-{"_id":"ip89wLTG1riDAWPg","name":"Player Handouts","type":"JournalEntry","sort":50000,"flags":{},"parent":null,"color":""}
 {"_id":"mC5SS1tN8DlBnhwd","name":"Chariot of the Gods","type":"Scene","sort":100000,"flags":{},"parent":null,"color":""}
 {"name":"Skill-Stunts","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"mw5yPttyVrDN40K6"}
 {"_id":"ptfRh2n7ZViwlY1A","name":"Diagnostics & Display","type":"Item","sort":700000,"flags":{},"parent":"Si53XDhiAFh6xTMF","color":"#c1c100"}
+{"name":"Xenomorph XX121","type":"Actor","sort":500000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"qBvpYyC7hkTrY4K5"}
 {"_id":"qP01kie0VKY7df0x","name":"Medical Supplies","type":"Item","sort":600000,"flags":{},"parent":"Si53XDhiAFh6xTMF","color":"#00b32d"}
 {"_id":"roA0geEiZm0e7awT","name":"Armors","type":"Item","sort":200000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":"#0080ff"}
-{"_id":"rtjCunReYz4LANdH","name":"Suits & Armors","type":"JournalEntry","sort":200000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Deck B","type":"JournalEntry","sort":1100000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"tL9Z0ObBtwDIueRH"}
 {"_id":"tr75mhxdKIpJtxeb","name":"Company Agent","type":"Item","sort":62500,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"name":"Deck C","type":"JournalEntry","sort":1200000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"vLYOkqihUZdRuy61"}
 {"_id":"vQAmRD1t5KdbZepG","name":"Colonial Marine","type":"Item","sort":50000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"_id":"w5rj2bPt77Sw12IP","name":"Weapons","type":"JournalEntry","sort":100000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
 {"_id":"znxqhODCZeUjygm7","name":"1 - Introduction","type":"JournalEntry","sort":1000000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
-{"name":"Neomorphs","type":"Actor","sort":300000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"9ih76sOAcPosWHOp"}
-{"name":"Abominations","type":"Actor","sort":400000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"aH6HYjyMj8EJg3vQ"}
-{"name":"Xenomorph XX121","type":"Actor","sort":500000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"qBvpYyC7hkTrY4K5"}
-{"$$deleted":true,"_id":"8c4xfCBnImjKuUm1"}
-{"_id":"FtqBbMSFnt9tyrui","name":"Locations","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"$$deleted":true,"_id":"ip89wLTG1riDAWPg"}
-{"_id":"Naxx3ZFWCfo27dp9","name":"Gear","type":"JournalEntry","sort":-400000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"Naxx3ZFWCfo27dp9","name":"Gear","type":"JournalEntry","sort":100000,"flags":{},"parent":"NwECYNBkxlZ25WkY","sorting":"a","color":""}
-{"$$deleted":true,"_id":"w5rj2bPt77Sw12IP"}
-{"$$deleted":true,"_id":"rtjCunReYz4LANdH"}
-{"$$deleted":true,"_id":"5dDwArzkPMsjCJ2l"}
-{"$$deleted":true,"_id":"Naxx3ZFWCfo27dp9"}
