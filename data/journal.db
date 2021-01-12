@@ -69,3 +69,34 @@
 {"_id":"vZ6p3i1cBnSrs2BR","name":"Chance of Success Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":200000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/chance-of-success-table.png"}
 {"_id":"wpFFI5Ho0xjWL17h","name":"Stalker Xenomorph","permission":{"default":0,"q8HmJQOf882klbgH":3},"folder":"8c4xfCBnImjKuUm1","sort":400000,"flags":{},"content":"","img":"worlds/alien-cotg/creatures/stalker-handout.png"}
 {"_id":"yWRtk9PeC2q7OtNW","name":"Drone Xenomorph","permission":{"default":0,"q8HmJQOf882klbgH":3},"folder":"8c4xfCBnImjKuUm1","sort":700000,"flags":{},"content":"","img":"worlds/alien-cotg/creatures/drone-handout.png"}
+{"$$deleted":true,"_id":"83OFrGDrsfgKukSb"}
+{"$$deleted":true,"_id":"HwmaA0bjBghbRPiZ"}
+{"$$deleted":true,"_id":"inFZRVkex38KtCuh"}
+{"$$deleted":true,"_id":"j86fpxRJiS9TKrkY"}
+{"$$deleted":true,"_id":"rP06la8rUX7dEIRk"}
+{"$$deleted":true,"_id":"tSTwrTIpCHCHPavH"}
+{"$$deleted":true,"_id":"v4TsSxy2ZoKJy2iD"}
+{"$$deleted":true,"_id":"wpFFI5Ho0xjWL17h"}
+{"$$deleted":true,"_id":"yWRtk9PeC2q7OtNW"}
+{"_id":"b5wvdecY9irQj3da","name":"Pistols Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":200000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/pistols-table.png"}
+{"_id":"bVx1vq0M883diF9R","name":"Heavy Weapons Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":400000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/heavy-weapons-table.png"}
+{"_id":"naZqwD4mo749Uv4k","name":"Rifles Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":300000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/rifles-table.png"}
+{"_id":"sRJCjTHhUEU0iabo","name":"Close Combat Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":100000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/close-combat-table.png"}
+{"_id":"Zro8NBurG0N3uzO5","name":"Suits & Armors Table","permission":{"default":0,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":100001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/suits-armors-table.png"}
+{"_id":"At5ilVz9pfbNzx6a","name":"Food & Drink Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":300001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/food-drink-table.png"}
+{"_id":"BAjTNAi3m8hUp143","name":"Tools Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":500001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/tools-table.png"}
+{"_id":"T1FzscZPXHYMP0c8","name":"Data Storage Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":100001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/data-storage-table.png"}
+{"_id":"Y8vA03dyO9HMUnPz","name":"Medical Supplies Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":400001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/medical-supplies-table.png"}
+{"_id":"msY0KQD7C7TlGaHF","name":"Diagnostic Display Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":200001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/diagnostics-display-table.png"}
+{"_id":"nzqhmhHx1a1GrRlg","name":"Vision Devices Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"Naxx3ZFWCfo27dp9","sort":600001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/vision-devices-tables.png"}
+{"_id":"At5ilVz9pfbNzx6a","name":"Food & Drink Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":300001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/food-drink-table.png"}
+{"_id":"BAjTNAi3m8hUp143","name":"Tools Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":500001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/tools-table.png"}
+{"_id":"T1FzscZPXHYMP0c8","name":"Data Storage Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":100001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/data-storage-table.png"}
+{"_id":"Y8vA03dyO9HMUnPz","name":"Medical Supplies Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":400001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/medical-supplies-table.png"}
+{"_id":"Zro8NBurG0N3uzO5","name":"Suits & Armors Table","permission":{"default":0,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":100001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/suits-armors-table.png"}
+{"_id":"b5wvdecY9irQj3da","name":"Pistols Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":200000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/pistols-table.png"}
+{"_id":"bVx1vq0M883diF9R","name":"Heavy Weapons Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":400000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/heavy-weapons-table.png"}
+{"_id":"msY0KQD7C7TlGaHF","name":"Diagnostic Display Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":200001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/diagnostics-display-table.png"}
+{"_id":"naZqwD4mo749Uv4k","name":"Rifles Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":300000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/rifles-table.png"}
+{"_id":"nzqhmhHx1a1GrRlg","name":"Vision Devices Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":600001,"flags":{},"content":"","img":"worlds/alien-cotg/tables/vision-devices-tables.png"}
+{"_id":"sRJCjTHhUEU0iabo","name":"Close Combat Table","permission":{"default":2,"q8HmJQOf882klbgH":3},"folder":"NwECYNBkxlZ25WkY","sort":100000,"flags":{},"content":"","img":"worlds/alien-cotg/tables/close-combat-table.png"}

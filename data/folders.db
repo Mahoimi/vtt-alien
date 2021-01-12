@@ -44,3 +44,15 @@
 {"_id":"w5rj2bPt77Sw12IP","name":"Weapons","type":"JournalEntry","sort":100000,"flags":{},"parent":"Naxx3ZFWCfo27dp9","color":""}
 {"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
 {"_id":"znxqhODCZeUjygm7","name":"1 - Introduction","type":"JournalEntry","sort":1000000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
+{"name":"Neomorphs","type":"Actor","sort":300000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"9ih76sOAcPosWHOp"}
+{"name":"Abominations","type":"Actor","sort":400000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"aH6HYjyMj8EJg3vQ"}
+{"name":"Xenomorph XX121","type":"Actor","sort":500000,"flags":{},"parent":"08f0boEi2R8DAws2","sorting":"a","color":"","_id":"qBvpYyC7hkTrY4K5"}
+{"$$deleted":true,"_id":"8c4xfCBnImjKuUm1"}
+{"_id":"FtqBbMSFnt9tyrui","name":"Locations","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"$$deleted":true,"_id":"ip89wLTG1riDAWPg"}
+{"_id":"Naxx3ZFWCfo27dp9","name":"Gear","type":"JournalEntry","sort":-400000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"Naxx3ZFWCfo27dp9","name":"Gear","type":"JournalEntry","sort":100000,"flags":{},"parent":"NwECYNBkxlZ25WkY","sorting":"a","color":""}
+{"$$deleted":true,"_id":"w5rj2bPt77Sw12IP"}
+{"$$deleted":true,"_id":"rtjCunReYz4LANdH"}
+{"$$deleted":true,"_id":"5dDwArzkPMsjCJ2l"}
+{"$$deleted":true,"_id":"Naxx3ZFWCfo27dp9"}

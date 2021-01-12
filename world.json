@@ -17,6 +17,96 @@
       "system": "alienrpg",
       "package": "world",
       "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\talents.db"
+    },
+    {
+      "label": "Alien Creature Tables",
+      "entity": "RollTable",
+      "name": "alien-creature-tables",
+      "path": "packs/alien-creature-tables.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\alien-creature-tables.db"
+    },
+    {
+      "label": "Neomorphs",
+      "entity": "Actor",
+      "name": "neomorphs",
+      "path": "packs/neomorphs.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\neomorphs.db"
+    },
+    {
+      "label": "Xenomorph XX121",
+      "entity": "Actor",
+      "name": "xenomorph-xx121",
+      "path": "packs/xenomorph-xx121.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\xenomorph-xx121.db"
+    },
+    {
+      "label": "Abominations",
+      "entity": "Actor",
+      "name": "abominations",
+      "path": "packs/abominations.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\abominations.db"
+    },
+    {
+      "label": "COTG - PC",
+      "entity": "Actor",
+      "name": "cotg-pc",
+      "path": "packs/cotg-pc.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\cotg-pc.db"
+    },
+    {
+      "label": "COTG - NPC",
+      "entity": "Actor",
+      "name": "cotg-npc",
+      "path": "packs/cotg-npc.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\cotg-npc.db"
+    },
+    {
+      "label": "COTG - Scenes",
+      "entity": "Scene",
+      "name": "cotg-scenes",
+      "path": "packs/cotg-scenes.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\cotg-scenes.db"
+    },
+    {
+      "label": "Skill-Stunts",
+      "entity": "Item",
+      "name": "skill-stunts",
+      "path": "packs/skill-stunts.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\skill-stunts.db"
+    },
+    {
+      "label": "Rules",
+      "entity": "JournalEntry",
+      "name": "rules",
+      "path": "packs/rules.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\rules.db"
+    },
+    {
+      "label": "Alien Mother Tables",
+      "entity": "RollTable",
+      "name": "alien-mother-tables",
+      "path": "packs/alien-mother-tables.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\alien-mother-tables.db"
     }
   ],
   "languages": [],
