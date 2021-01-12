@@ -41,3 +41,9 @@
 {"_id":"vQAmRD1t5KdbZepG","name":"Colonial Marine","type":"Item","sort":50000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":"fCeJRSsUpIZISOSk","color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
 {"_id":"znxqhODCZeUjygm7","name":"1 - Introduction","type":"JournalEntry","sort":1000000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
+{"$$deleted":true,"_id":"fCeJRSsUpIZISOSk"}
+{"name":"Alien Creature Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"color":"#ff0000","_id":"febeL2CJoK2GBQSn"}
+{"name":"Alien Mother Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"color":"#00c100","_id":"xahX2HbiR0YUPuMI"}
+{"_id":"febeL2CJoK2GBQSn","name":"Alien Creature Tables","type":"RollTable","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#000000"}
+{"_id":"febeL2CJoK2GBQSn","name":"Alien Creature Tables","type":"RollTable","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"xahX2HbiR0YUPuMI","name":"Alien Mother Tables","type":"RollTable","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}

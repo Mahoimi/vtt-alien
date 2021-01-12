@@ -1,12 +1,7 @@
 TODO :
-- Events
-- Stunts
-- Neomorphic egg sacs & motes
-- Neomorphs
-- Xenomorphs
+- Neomorphs (stage 1,2,5)
+- Xenomorphs (stage 1,2,3)
 - Items
-- Transférer items to compendium
 
 Se renseigner sur :
-- attaques des Abominations stage 1 & 2
 - Sickness rolls & Virulence
