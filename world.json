@@ -107,6 +107,51 @@
       "system": "alienrpg",
       "package": "world",
       "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\alien-mother-tables.db"
+    },
+    {
+      "label": "COTG - Cinematic Scenario",
+      "entity": "JournalEntry",
+      "name": "cotg-cinematic-scenario",
+      "path": "packs/cotg-cinematic-scenario.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\cotg-cinematic-scenario.db"
+    },
+    {
+      "label": "Armors",
+      "entity": "Item",
+      "name": "armors",
+      "path": "packs/armors.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\armors.db"
+    },
+    {
+      "label": "Diagnostics & Displays",
+      "entity": "Item",
+      "name": "diagnostics-and-displays",
+      "path": "packs/diagnostics-and-displays.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\diagnostics-and-displays.db"
+    },
+    {
+      "label": "Medical Supplies",
+      "entity": "Item",
+      "name": "medical-supplies",
+      "path": "packs/medical-supplies.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\medical-supplies.db"
+    },
+    {
+      "label": "Weapons",
+      "entity": "Item",
+      "name": "weapons",
+      "path": "packs/weapons.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\weapons.db"
     }
   ],
   "languages": [],
