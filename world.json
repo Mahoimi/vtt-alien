@@ -152,6 +152,24 @@
       "system": "alienrpg",
       "package": "world",
       "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\weapons.db"
+    },
+    {
+      "label": "Vehicles",
+      "entity": "Actor",
+      "name": "vehicles",
+      "path": "packs/vehicles.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\vehicles.db"
+    },
+    {
+      "label": "Pharmaceuticals",
+      "entity": "Item",
+      "name": "pharmaceuticals",
+      "path": "packs/pharmaceuticals.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\pharmaceuticals.db"
     }
   ],
   "languages": [],

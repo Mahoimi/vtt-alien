@@ -1,68 +1,19 @@
-{"name":"Alien Tables","type":"RollTable","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"0WNAIhLKJ8wSTVW1"}
-{"_id":"0spMqVkHNoHXhv6R","name":"Pistols","type":"Item","sort":200000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
-{"_id":"1FY2fTxrzSrMThK2","name":"2 - Cronus Decks","type":"JournalEntry","sort":100000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
 {"_id":"5Fn9W0XOcTQJipAz","name":"Medic","type":"Item","sort":64063,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"name":"Alien Mother Tables","type":"RollTable","sort":500000,"flags":{},"parent":"0WNAIhLKJ8wSTVW1","sorting":"a","color":"#00c100","_id":"66F70it85QvL8Ikl"}
-{"_id":"6gzBVK0PCGmlVju5","name":"Chariot of the Gods","type":"JournalEntry","sort":250000,"flags":{},"parent":null,"color":""}
-{"_id":"6u2JYPf1HAvLPCet","name":"Close Combat","type":"Item","sort":100000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
 {"_id":"9RaIrABqTghlt0Qf","name":"Colonial Marshall","type":"Item","sort":56250,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"name":"Chariot of the Gods","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"9f1xOdNr509t8sSr"}
 {"name":"Roughneck","type":"Item","sort":1000000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":"","_id":"9jz7vFzlBdmjDmJo"}
-{"name":"Alien Creature Tables","type":"RollTable","sort":400000,"flags":{},"parent":"0WNAIhLKJ8wSTVW1","sorting":"a","color":"#ff0000","_id":"9nTADm24DvosWRln"}
-{"_id":"FtqBbMSFnt9tyrui","name":"Locations","type":"JournalEntry","sort":350000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"GdDPOENdw3zvO3bc","name":"Weapons","type":"Item","sort":100000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":"#ff0000"}
 {"_id":"GnmpaSrNJXYqwGmg","name":"Officer","type":"Item","sort":65625,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"_id":"HD1eJ7sNVjXro1El","name":"3 - Events","type":"JournalEntry","sort":700000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
 {"_id":"I26kvAFbpdsqk3eJ","name":"Pilot","type":"Item","sort":68750,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"IYdUAdq5FO7nx6CB","name":"Scientist","type":"Item","sort":100000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"_id":"InLkBJ2JtAqwWrVa","name":"Heavy Weapons","type":"Item","sort":400000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
-{"_id":"J3JImUKbU5nyUBqq","name":"PC","type":"Actor","sort":200000,"flags":{},"parent":"9f1xOdNr509t8sSr","sorting":"a","color":""}
-{"_id":"NwECYNBkxlZ25WkY","name":"Rules","type":"JournalEntry","sort":-300000,"flags":{},"parent":null,"color":""}
-{"_id":"OhxJoZ0mVCwcmiq0","name":"NPC","type":"Actor","sort":100000,"flags":{},"parent":"9f1xOdNr509t8sSr","sorting":"a","color":""}
-{"_id":"QQUe8jfCyifRkmiE","name":"Gear","type":"Item","sort":100000,"flags":{},"parent":null,"color":""}
-{"_id":"RzpAKzp5sKYO4qa4","name":"General","type":"Item","sort":0,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"_id":"Si53XDhiAFh6xTMF","name":"Others","type":"Item","sort":300000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":""}
-{"_id":"TAPQxntPSn68H8ZE","name":"Kid","type":"Item","sort":63282,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"name":"Deck D","type":"JournalEntry","sort":1300000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"Z7wQOX0J2hrZ6Jon"}
-{"name":"Deck A","type":"JournalEntry","sort":1000000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"e4pUiUn08kx4Rxzt"}
-{"_id":"febeL2CJoK2GBQSn","name":"Alien Creature Tables","type":"RollTable","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"huwhNfLnKRfpWy5t","name":"Talents","type":"Item","sort":200000,"flags":{},"parent":null,"color":"#000000"}
-{"_id":"iIRXDaePTica18jI","name":"Rifles","type":"Item","sort":300000,"flags":{},"parent":"GdDPOENdw3zvO3bc","color":""}
-{"_id":"mC5SS1tN8DlBnhwd","name":"Chariot of the Gods","type":"Scene","sort":100000,"flags":{},"parent":null,"color":""}
-{"name":"Skill-Stunts","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"mw5yPttyVrDN40K6"}
-{"_id":"ptfRh2n7ZViwlY1A","name":"Diagnostics & Display","type":"Item","sort":700000,"flags":{},"parent":"Si53XDhiAFh6xTMF","color":"#c1c100"}
-{"_id":"qP01kie0VKY7df0x","name":"Medical Supplies","type":"Item","sort":600000,"flags":{},"parent":"Si53XDhiAFh6xTMF","color":"#00b32d"}
-{"_id":"roA0geEiZm0e7awT","name":"Armors","type":"Item","sort":200000,"flags":{},"parent":"QQUe8jfCyifRkmiE","color":"#0080ff"}
-{"name":"Deck B","type":"JournalEntry","sort":1100000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"tL9Z0ObBtwDIueRH"}
-{"_id":"tr75mhxdKIpJtxeb","name":"Company Agent","type":"Item","sort":62500,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"name":"Deck C","type":"JournalEntry","sort":1200000,"flags":{},"parent":"1FY2fTxrzSrMThK2","sorting":"a","color":"","_id":"vLYOkqihUZdRuy61"}
-{"_id":"vQAmRD1t5KdbZepG","name":"Colonial Marine","type":"Item","sort":50000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
-{"_id":"xahX2HbiR0YUPuMI","name":"Alien Mother Tables","type":"RollTable","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"_id":"znxqhODCZeUjygm7","name":"1 - Introduction","type":"JournalEntry","sort":1000000,"flags":{},"parent":"6gzBVK0PCGmlVju5","sorting":"a","color":""}
-{"$$deleted":true,"_id":"FtqBbMSFnt9tyrui"}
-{"$$deleted":true,"_id":"6gzBVK0PCGmlVju5"}
-{"$$deleted":true,"_id":"1FY2fTxrzSrMThK2"}
-{"$$deleted":true,"_id":"HD1eJ7sNVjXro1El"}
-{"$$deleted":true,"_id":"znxqhODCZeUjygm7"}
-{"$$deleted":true,"_id":"Z7wQOX0J2hrZ6Jon"}
-{"$$deleted":true,"_id":"e4pUiUn08kx4Rxzt"}
-{"$$deleted":true,"_id":"tL9Z0ObBtwDIueRH"}
-{"$$deleted":true,"_id":"vLYOkqihUZdRuy61"}
-{"$$deleted":true,"_id":"roA0geEiZm0e7awT"}
-{"$$deleted":true,"_id":"ptfRh2n7ZViwlY1A"}
-{"$$deleted":true,"_id":"qP01kie0VKY7df0x"}
-{"$$deleted":true,"_id":"Si53XDhiAFh6xTMF"}
-{"$$deleted":true,"_id":"6u2JYPf1HAvLPCet"}
-{"$$deleted":true,"_id":"iIRXDaePTica18jI"}
-{"$$deleted":true,"_id":"0spMqVkHNoHXhv6R"}
-{"$$deleted":true,"_id":"InLkBJ2JtAqwWrVa"}
-{"$$deleted":true,"_id":"GdDPOENdw3zvO3bc"}
-{"$$deleted":true,"_id":"QQUe8jfCyifRkmiE"}
-{"$$deleted":true,"_id":"NwECYNBkxlZ25WkY"}
-{"$$deleted":true,"_id":"0WNAIhLKJ8wSTVW1"}
-{"$$deleted":true,"_id":"66F70it85QvL8Ikl"}
-{"$$deleted":true,"_id":"9nTADm24DvosWRln"}
-{"$$deleted":true,"_id":"mC5SS1tN8DlBnhwd"}
-{"$$deleted":true,"_id":"9f1xOdNr509t8sSr"}
 {"_id":"J3JImUKbU5nyUBqq","name":"PC","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"OhxJoZ0mVCwcmiq0","name":"NPC","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"RzpAKzp5sKYO4qa4","name":"General","type":"Item","sort":0,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
+{"_id":"TAPQxntPSn68H8ZE","name":"Kid","type":"Item","sort":63282,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
+{"_id":"febeL2CJoK2GBQSn","name":"Alien Creature Tables","type":"RollTable","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"_id":"huwhNfLnKRfpWy5t","name":"Talents","type":"Item","sort":200000,"flags":{},"parent":null,"color":"#000000"}
+{"name":"Skill-Stunts","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"mw5yPttyVrDN40K6"}
+{"_id":"tr75mhxdKIpJtxeb","name":"Company Agent","type":"Item","sort":62500,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
+{"_id":"vQAmRD1t5KdbZepG","name":"Colonial Marine","type":"Item","sort":50000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
+{"_id":"xahX2HbiR0YUPuMI","name":"Alien Mother Tables","type":"RollTable","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Alien Tables","type":"RollTable","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"jCoClUXBF7upWTbV"}
+{"name":"Alien Creature Tables","type":"RollTable","sort":400000,"flags":{},"parent":"jCoClUXBF7upWTbV","sorting":"a","color":"#ff0000","_id":"Qx2Ky1hukKSnuLmg"}
+{"name":"Alien Mother Tables","type":"RollTable","sort":500000,"flags":{},"parent":"jCoClUXBF7upWTbV","sorting":"a","color":"#00c100","_id":"3bPjcU8eaJrckJF9"}

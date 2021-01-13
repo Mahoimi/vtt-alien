@@ -1,10 +1,6 @@
 TODO :
-- Repair broken links monsters / items from compendiums
-- Link journal entries in scenes from compendium
 - Events Act 2 - 3
-- Neomorphs (stage 1,2,5)
-- Xenomorphs (stage 1,2,3)
-- Items
+- Repair broken links monsters / items from compendiums (stopped at Deck B - MedLab)
 
 Se renseigner sur :
-- Sickness rolls & Virulence
+- Link journal entries in scenes from compendium
