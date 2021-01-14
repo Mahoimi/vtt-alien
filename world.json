@@ -186,9 +186,9 @@
   "background": "Alien-COTG.png",
   "system": "alienrpg",
   "coreVersion": "0.7.9",
-  "systemVersion": "1.2.20",
+  "systemVersion": "1.2.24",
   "nextSession": "",
-  "availability": 1,
+  "availability": 0,
   "unavailable": false,
   "id": "alien-cotg"
 }

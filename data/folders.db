@@ -1,3 +1,4 @@
+{"name":"Alien Mother Tables","type":"RollTable","sort":500000,"flags":{},"parent":"jCoClUXBF7upWTbV","sorting":"a","color":"#00c100","_id":"3bPjcU8eaJrckJF9"}
 {"_id":"5Fn9W0XOcTQJipAz","name":"Medic","type":"Item","sort":64063,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"9RaIrABqTghlt0Qf","name":"Colonial Marshall","type":"Item","sort":56250,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"name":"Roughneck","type":"Item","sort":1000000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":"","_id":"9jz7vFzlBdmjDmJo"}
@@ -6,14 +7,13 @@
 {"_id":"IYdUAdq5FO7nx6CB","name":"Scientist","type":"Item","sort":100000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"J3JImUKbU5nyUBqq","name":"PC","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"OhxJoZ0mVCwcmiq0","name":"NPC","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
+{"name":"Alien Creature Tables","type":"RollTable","sort":400000,"flags":{},"parent":"jCoClUXBF7upWTbV","sorting":"a","color":"#ff0000","_id":"Qx2Ky1hukKSnuLmg"}
 {"_id":"RzpAKzp5sKYO4qa4","name":"General","type":"Item","sort":0,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"TAPQxntPSn68H8ZE","name":"Kid","type":"Item","sort":63282,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"febeL2CJoK2GBQSn","name":"Alien Creature Tables","type":"RollTable","sort":100000,"flags":{},"parent":null,"sorting":"a","color":""}
 {"_id":"huwhNfLnKRfpWy5t","name":"Talents","type":"Item","sort":200000,"flags":{},"parent":null,"color":"#000000"}
+{"name":"Alien Tables","type":"RollTable","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"jCoClUXBF7upWTbV"}
 {"name":"Skill-Stunts","type":"Item","sort":1100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"mw5yPttyVrDN40K6"}
 {"_id":"tr75mhxdKIpJtxeb","name":"Company Agent","type":"Item","sort":62500,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"vQAmRD1t5KdbZepG","name":"Colonial Marine","type":"Item","sort":50000,"flags":{},"parent":"huwhNfLnKRfpWy5t","color":""}
 {"_id":"xahX2HbiR0YUPuMI","name":"Alien Mother Tables","type":"RollTable","sort":200000,"flags":{},"parent":null,"sorting":"a","color":""}
-{"name":"Alien Tables","type":"RollTable","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"jCoClUXBF7upWTbV"}
-{"name":"Alien Creature Tables","type":"RollTable","sort":400000,"flags":{},"parent":"jCoClUXBF7upWTbV","sorting":"a","color":"#ff0000","_id":"Qx2Ky1hukKSnuLmg"}
-{"name":"Alien Mother Tables","type":"RollTable","sort":500000,"flags":{},"parent":"jCoClUXBF7upWTbV","sorting":"a","color":"#00c100","_id":"3bPjcU8eaJrckJF9"}
