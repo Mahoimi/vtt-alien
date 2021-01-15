@@ -1,5 +1,10 @@
+{"key":"reverse-initiative-order.max","value":"10","_id":"7qDHr33STCogJYku"}
+{"key":"quick-insert.indexDeferredDelay","value":"\"1000\"","_id":"8OGxNHxSOCfuVWTJ"}
 {"key":"core.time","value":"0","_id":"IpH1Pc1cQ3431udU"}
 {"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"OSwwkHjwanclq4p5"}
 {"key":"core.animateRollTable","value":"false","_id":"OXZtezFL1pD4nEU1"}
-{"_id":"R73srd9gn4ENWbda","key":"core.moduleConfiguration","value":"{\"dice-so-nice\":true,\"pings\":true,\"plutonium\":false,\"quick-insert\":true}"}
+{"_id":"R73srd9gn4ENWbda","key":"core.moduleConfiguration","value":"{\"dice-so-nice\":true,\"pings\":true,\"plutonium\":false,\"quick-insert\":true,\"reverse-initiative-order\":true}"}
+{"key":"quick-insert.indexingDisabled","value":"{\"entities\":{\"Macro\":[1,2],\"RollTable\":[1,2],\"Scene\":[1,2]},\"packs\":{\"alienrpg.tables_gm\":[1,2,3,4],\"alienrpg.mother_instructions\":[1,2,3,4],\"alienrpg.alien\":[1,2,3,4],\"world.alien-creature-tables\":[1,2,3,4],\"world.neomorphs\":[1,2,3,4],\"world.xenomorph-xx121\":[1,2,3,4],\"world.abominations\":[1,2,3,4],\"world.cotg-pc\":[1,2,3,4],\"world.cotg-npc\":[1,2,3,4],\"world.cotg-scenes\":[1,2,3,4],\"world.alien-mother-tables\":[1,2,3,4],\"world.cotg-cinematic-scenario\":[1,2,3,4]}}","_id":"htryZN8SdL9CKkT4"}
+{"key":"pings.minMovePermission","value":"\"1\"","_id":"hwr62j5jDRGrvBea"}
+{"key":"reverse-initiative-order.multipleCombatants","value":"true","_id":"itB3HUUo8n9vApoy"}
 {"_id":"vJJW9hDS8MoFFqy6","key":"alienrpg.systemMigrationVersion","value":"\"1.2.20\""}

@@ -1,6 +1,9 @@
 TODO :
 - Events Act 2 - 3
+- Agendas
+- Scaling / Grid
 - Repair broken links monsters / items from compendiums (stopped at Deck B - MedLab)
+- Tokens
 
 Se renseigner sur :
 - Link journal entries in scenes from compendium
