@@ -1,9 +1,10 @@
 TODO :
-- Events Act 2 - 3
+- Events 3
+- Some missing items ? Draconis strain syringe 
 - Agendas
 - Scaling / Grid
 - Repair broken links monsters / items from compendiums (stopped at Deck B - MedLab)
 - Tokens
 
 Se renseigner sur :
-- Link journal entries in scenes from compendium
+- Link tabletopaudio to FoundryVtt -> Broadcasting feature

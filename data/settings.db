@@ -8,3 +8,6 @@
 {"key":"pings.minMovePermission","value":"\"1\"","_id":"hwr62j5jDRGrvBea"}
 {"key":"reverse-initiative-order.multipleCombatants","value":"true","_id":"itB3HUUo8n9vApoy"}
 {"_id":"vJJW9hDS8MoFFqy6","key":"alienrpg.systemMigrationVersion","value":"\"1.2.20\""}
+{"_id":"htryZN8SdL9CKkT4","key":"quick-insert.indexingDisabled","value":"{\"entities\":{\"Macro\":[1,2],\"RollTable\":[1,2],\"Scene\":[1,2]},\"packs\":{\"alienrpg.tables_gm\":[1,2,3],\"alienrpg.mother_instructions\":[1,2,3],\"alienrpg.alien\":[1,2,3],\"world.alien-creature-tables\":[1,2,3],\"world.neomorphs\":[1,2,3],\"world.xenomorph-xx121\":[1,2,3],\"world.abominations\":[1,2,3],\"world.cotg-pc\":[1,2,3],\"world.cotg-npc\":[1,2,3],\"world.cotg-scenes\":[1,2,3],\"world.alien-mother-tables\":[1,2,3],\"world.cotg-cinematic-scenario\":[1,2,3]}}"}
+{"_id":"hwr62j5jDRGrvBea","key":"pings.minMovePermission","value":"\"1\""}
+{"_id":"8OGxNHxSOCfuVWTJ","key":"quick-insert.indexDeferredDelay","value":"\"1000\""}
