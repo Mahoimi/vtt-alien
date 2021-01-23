@@ -170,6 +170,15 @@
       "system": "alienrpg",
       "package": "world",
       "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\pharmaceuticals.db"
+    },
+    {
+      "label": "COTG - Agendas",
+      "entity": "Item",
+      "name": "cotg-agendas",
+      "path": "packs/cotg-agendas.db",
+      "system": "alienrpg",
+      "package": "world",
+      "absPath": "C:\\Users\\Maho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\alien-cotg\\packs\\cotg-agendas.db"
     }
   ],
   "languages": [],
